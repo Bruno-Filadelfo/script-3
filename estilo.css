@@ -1,0 +1,18 @@
+body {
+  background-color: aquamarine;
+}
+
+/* input[type=text()] {
+  padding: 10px;
+  font-size: 14px;
+} */
+
+input[type=text(email)] {
+  padding: 10px;
+  font-size: 14px;
+  
+}
+
+.teste {
+  margin-left: auto;
+}
